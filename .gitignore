@@ -1,0 +1,13 @@
+node_modules
+node_modules
+package-lock.json
+yarn.lock
+videos
+spec1.cy.js
+spec2.cy.js
+spec3.cy.js
+spec4.cy.js
+spec5.cy.js
+spec6.cy.js
+spec7.cy.js
+spec8.cy.js
